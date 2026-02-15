@@ -1,0 +1,12 @@
+print("hello)"[0])
+# string
+print("123" + "345")
+# interger = whole number
+print(123 + 345)
+# large intergers
+print(123456789)
+# float + floating point number
+print(3.14159)
+# boolean
+print(True)
+print(False)
