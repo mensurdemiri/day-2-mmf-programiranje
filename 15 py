@@ -1,0 +1,2 @@
+Name_length =input("What is your name")
+print("Numbers of letters in your name: " + str(len(Name_length)))
